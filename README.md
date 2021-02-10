@@ -6,10 +6,10 @@ Air Passenger Traffic Forecasting Problem: An airline company has the data on th
 
 Making this forecast could be quite beneficial to the company as it would help them take some crucial decisions like - 
 
-What capacity aircraft should they use?
-When should they fly?
-How many air hostesses and pilots do they need?
-How much food should they stock in their inventory?
+What capacity aircraft should they use?__
+When should they fly?__
+How many air hostesses and pilots do they need?__
+How much food should they stock in their inventory?__
 
 ![Observations](https://github.com/abhishekdmc4/TimeSeriesAirline/blob/main/TS.JPG)
 
