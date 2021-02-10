@@ -11,4 +11,5 @@ When should they fly?
 How many air hostesses and pilots do they need?
 How much food should they stock in their inventory?
 
-![Concept] (https://github.com/abhishekdmc4/TimeSeriesAirline/blob/main/TS.JPG)
+![Observations](https://github.com/abhishekdmc4/TimeSeriesAirline/blob/main/TS.JPG)
+
