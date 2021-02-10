@@ -9,7 +9,7 @@ Making this forecast could be quite beneficial to the company as it would help t
 What capacity aircraft should they use?\
 When should they fly?\
 How many air hostesses and pilots do they need?\
-How much food should they stock in their inventory?\
+How much food should they stock in their inventory?
 
 ![Observations](https://github.com/abhishekdmc4/TimeSeriesAirline/blob/main/TS.JPG)
 
